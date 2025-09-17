@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|c:\\users\\administrator\\source\\repos\\projectbigdata\\projectbigdata\\controllers\\dataimportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|solutionrelative:projectbigdata\\controllers\\dataimportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|c:\\users\\administrator\\source\\repos\\projectbigdata\\projectbigdata\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|solutionrelative:projectbigdata\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|c:\\users\\administrator\\source\\repos\\projectbigdata\\projectbigdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|solutionrelative:projectbigdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|c:\\users\\administrator\\source\\repos\\projectbigdata\\projectbigdata\\views\\home\\dataimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|solutionrelative:projectbigdata\\views\\home\\dataimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|c:\\users\\administrator\\source\\repos\\projectbigdata\\projectbigdata\\services\\dataimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|solutionrelative:projectbigdata\\services\\dataimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|c:\\users\\administrator\\source\\repos\\projectbigdata\\projectbigdata\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|solutionrelative:projectbigdata\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|c:\\users\\administrator\\source\\repos\\projectbigdata\\projectbigdata\\data\\word.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|solutionrelative:projectbigdata\\data\\word.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|c:\\users\\administrator\\source\\repos\\projectbigdata\\projectbigdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|solutionrelative:projectbigdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|c:\\users\\administrator\\source\\repos\\projectbigdata\\projectbigdata\\projectbigdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE2159BE-C41A-472D-AE64-578F2B9AE2F5}|ProjectBigData\\ProjectBigData.csproj|solutionrelative:projectbigdata\\projectbigdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataImport.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Views\\Home\\DataImport.cs",
+              "RelativeDocumentMoniker": "ProjectBigData\\Views\\Home\\DataImport.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Views\\Home\\DataImport.cs",
+              "RelativeToolTip": "ProjectBigData\\Views\\Home\\DataImport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:38:45.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataImportController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Controllers\\DataImportController.cs",
+              "RelativeDocumentMoniker": "ProjectBigData\\Controllers\\DataImportController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Controllers\\DataImportController.cs",
+              "RelativeToolTip": "ProjectBigData\\Controllers\\DataImportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:17:05.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataImportService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Services\\DataImportService.cs",
+              "RelativeDocumentMoniker": "ProjectBigData\\Services\\DataImportService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Services\\DataImportService.cs",
+              "RelativeToolTip": "ProjectBigData\\Services\\DataImportService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:00:05.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Views\\Shared\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectBigData\\Views\\Shared\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Views\\Shared\\Index.cshtml",
+              "RelativeToolTip": "ProjectBigData\\Views\\Shared\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T15:21:07.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjectBigData\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjectBigData\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:03:19.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProjectBigData\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProjectBigData\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:35:01.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "word.txt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Data\\word.txt",
+              "RelativeDocumentMoniker": "ProjectBigData\\Data\\word.txt",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Data\\word.txt",
+              "RelativeToolTip": "ProjectBigData\\Data\\word.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-03T15:02:21.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectBigData\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\Program.cs",
+              "RelativeToolTip": "ProjectBigData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:56:47.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectBigData",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\ProjectBigData.csproj",
+              "RelativeDocumentMoniker": "ProjectBigData\\ProjectBigData.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ProjectBigData\\ProjectBigData\\ProjectBigData.csproj",
+              "RelativeToolTip": "ProjectBigData\\ProjectBigData.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T14:58:57.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

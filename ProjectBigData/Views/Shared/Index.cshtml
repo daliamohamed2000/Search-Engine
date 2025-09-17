@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "استيراد البيانات";
+}
+
+<h1>استيراد البيانات إلى جدول world</h1>
+
+@if (ViewBag.Message != null)
+{
+    <div style="color: green; font-weight: bold; margin-top: 20px;">
+        @Html.Raw(ViewBag.Message)
+    </div>
+}
+
+<form asp-controller="DataImport" asp-action="Import" method="post">
+    <button type="submit">استيراد البيانات</button>
+</form>
